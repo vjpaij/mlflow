@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/in22417145/PycharmProjects/mlflow/mlruns/0/44de0121a90748148cca3c46db1d42cf/artifacts
+end_time: 1731779581118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44de0121a90748148cca3c46db1d42cf
+run_name: abundant-bear-55
+run_uuid: 44de0121a90748148cca3c46db1d42cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731779579517
+status: 3
+tags: []
+user_id: in22417145
