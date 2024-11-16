@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/in22417145/PycharmProjects/mlflow/mlruns/0/649fba9523094012b86ac38ab0b4f0f4/artifacts
+end_time: 1731776264035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 649fba9523094012b86ac38ab0b4f0f4
+run_name: smiling-asp-650
+run_uuid: 649fba9523094012b86ac38ab0b4f0f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731776262350
+status: 3
+tags: []
+user_id: in22417145
